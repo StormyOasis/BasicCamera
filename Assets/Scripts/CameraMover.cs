@@ -52,7 +52,6 @@ public class CameraMover : MonoBehaviour
     private Vector3 currentLookAt;
     private float currentXAcceleration = 0;
     private float currentZAcceleration = 0;
-    private float currentZoomLevel = 0;
 
     // Start is called before the first frame update
     void Start()

@@ -122,7 +122,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LookSpeed: 50
   zoomSpeed: 10
-  minY: 0
+  minY: 0.001
   maxY: 15
   accelerationRate: 0.75
   enableHorizontal: 0
